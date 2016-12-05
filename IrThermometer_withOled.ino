@@ -1,7 +1,6 @@
-/* 
- * using button to move line up and down  on spi oled display
-
-
+/* One button Temperature monitor device.
+ * using spi ssd1306 oled display 128*64
+ * using mlx90614 temperature sensor
 */
 #include <SPI.h>
 #include <Wire.h>
